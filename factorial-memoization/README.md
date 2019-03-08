@@ -6,7 +6,7 @@
 
 
 Memoization is a powerfull technique for performance. </br>
-Use `console.time` to check how much time it takes to calculate 6th factorial and compare agains 12. </br>
+Use `console.time` to check how much time it takes to calculate !6 and compare against !12. </br>
 
 ```
 console.time("factorial-6")
