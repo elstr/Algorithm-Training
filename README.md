@@ -1,2 +1,2 @@
 # Algorithm-Training
-My algorithm daily training :heart:
+My algorithm trainings :heart:
