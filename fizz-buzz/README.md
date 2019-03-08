@@ -5,6 +5,7 @@
 * For multiples of 3 and 5 print FizzBuzz 
 <br/>
 E.g.: 1 to 15
+
 ```
     1
     2
@@ -19,9 +20,9 @@ E.g.: 1 to 15
 
 ## Steps
 1. Build it as it is => for loop with if/else if/else
-2. Make it better => Use expressions! const isFizz = i % 3 === 0
-3. Make it better => No extra console.logs, use result
-4. More functional approach => Don't mutate result 
+2. Make it better => Use expressions! `const isFizz = i % 3 === 0`
+3. Make it better => No extra `console.logs`, use `result`
+4. More functional approach => *Don't mutate result*
 
 #### Mutating result approach
 ```
