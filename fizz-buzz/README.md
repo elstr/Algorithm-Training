@@ -3,8 +3,8 @@
 * For multiples of 3 print Fuzz
 * For multiples of 5 print Buzz 
 * For multiples of 3 and 5 print FizzBuzz 
-<br/>
-E.g.: 1 to 15
+
+#### E.g.: 1 to 15
 
 ```
     1
@@ -54,6 +54,6 @@ E.g.: 1 to 15
     console.log(result)
 ```
         
-## Disclaimer
+### Disclaimer
 To be able to write a test for the FizzBuzz, I'm building a string to compare to: <br/>
 `1 2 Fizz Fizz Buzz Fizz 7 8 Fizz Buzz 11 Fizz 13 14 FizzBuzz`
