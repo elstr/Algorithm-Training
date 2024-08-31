@@ -21,8 +21,9 @@
   },
   "homepage": "https://github.com/elstr/Algorithm-Training#readme",
   "devDependencies": {
-    "jest": "^24.1.0",
-    "jest-extended": "^0.11.1"
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5"
   },
   "prettier": {
     "semi": false,
@@ -31,11 +32,5 @@
     "singleQuote": true,
     "trailingComma": "es5",
     "eslintIntegration": true
-  },
-  "jest": {
-    "testEnvironment": "node",
-    "setupFilesAfterEnv": [
-      "jest-extended"
-    ]
   }
 }
